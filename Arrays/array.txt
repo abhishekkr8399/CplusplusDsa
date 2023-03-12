@@ -1,0 +1,6 @@
+create ,input,output,update
+int a[100]; 100 space with garbage values
+int a[100]={0};  [0,0,0,0...]
+int a[100]={1,2,3};  [1,2,3,0,0,0...]
+int a[]={1,2,3};    [1,2,3]
+string fruits[4]={"apple","mango","guava}
